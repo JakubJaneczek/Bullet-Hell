@@ -1,0 +1,197 @@
+﻿  Source1.cpp
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(210,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(211,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(219,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(227,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(239,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(251,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(428,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\structs.h(429,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(371,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(381,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(414,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(417,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(485,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(485,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(491,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(491,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(524,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(524,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(505,33): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(655,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(657,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(728,93): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(728,93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(121): warning C4715: 'LoadGraphicsMenu': not all control paths return a value
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(210): warning C4715: 'LoadGraphicsLvl1': not all control paths return a value
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(245): warning C4715: 'LoadGraphicsLvl2': not all control paths return a value
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(275): warning C4715: 'loadGraphicsLvl3': not all control paths return a value
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(343): warning C4715: 'LoadStaticGraphics': not all control paths return a value
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Source1.cpp(355): warning C4715: 'CreateWindow': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+main.obj : warning LNK4006: "public: __thiscall Banana::Banana(void)" (??0Banana@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: __thiscall Enemy::Enemy(void)" (??0Enemy@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: __thiscall Fireball::Fireball(void)" (??0Fireball@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: __thiscall Heart::Heart(void)" (??0Heart@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: __thiscall Megaball::Megaball(void)" (??0Megaball@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: __thiscall Player::Player(void)" (??0Player@@QAE@XZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Banana::BananaChangeVars(int,int,char,int,int,int &)" (?BananaChangeVars@Banana@@QAEXHHDHHAAH@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Heart::UpdateHitbox(void)" (?UpdateHitbox@Heart@@QAEXXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: int __thiscall Player::getPosX(void)" (?getPosX@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: int __thiscall Player::getPosY(void)" (?getPosY@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Banana::handleEvent(union SDL_Event &,int,int,int &)" (?handleEvent@Banana@@QAEXAATSDL_Event@@HHAAH@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Player::handleEvent(union SDL_Event &)" (?handleEvent@Player@@QAEXAATSDL_Event@@@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Banana::move(void)" (?move@Banana@@QAEXXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Enemy::move(void)" (?move@Enemy@@QAEXXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Fireball::move(int,int,int,int)" (?move@Fireball@@QAEXHHHH@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Megaball::move(double,double)" (?move@Megaball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Player::move(void)" (?move@Player@@QAEXXZ) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "public: void __thiscall Fireball::movePurple(double,double)" (?movePurple@Fireball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * minion" (?minion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * gru" (?gru@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * fireball" (?fireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * banana" (?banana@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * background" (?background@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * minionShield" (?minionShield@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * bananaEast" (?bananaEast@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * bananaWest" (?bananaWest@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * bananaNorth" (?bananaNorth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * bananaSouth" (?bananaSouth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * grave" (?grave@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * gruDancing" (?gruDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * minionDancing" (?minionDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * heart" (?heart@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * sun" (?sun@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * evilMinion" (?evilMinion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * purpleFireball" (?purpleFireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * angryMinionR" (?angryMinionR@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * angryMinionL" (?angryMinionL@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * iceEnemy" (?iceEnemy@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * iceBall" (?iceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * smalliceBall" (?smalliceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct SDL_Surface * mars" (?mars@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Banana::Banana(void)" (??0Banana@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Enemy::Enemy(void)" (??0Enemy@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Fireball::Fireball(void)" (??0Fireball@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Heart::Heart(void)" (??0Heart@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Megaball::Megaball(void)" (??0Megaball@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: __thiscall Player::Player(void)" (??0Player@@QAE@XZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Banana::BananaChangeVars(int,int,char,int,int,int &)" (?BananaChangeVars@Banana@@QAEXHHDHHAAH@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Heart::UpdateHitbox(void)" (?UpdateHitbox@Heart@@QAEXXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: int __thiscall Player::getPosX(void)" (?getPosX@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: int __thiscall Player::getPosY(void)" (?getPosY@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Banana::handleEvent(union SDL_Event &,int,int,int &)" (?handleEvent@Banana@@QAEXAATSDL_Event@@HHAAH@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Player::handleEvent(union SDL_Event &)" (?handleEvent@Player@@QAEXAATSDL_Event@@@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Banana::move(void)" (?move@Banana@@QAEXXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Enemy::move(void)" (?move@Enemy@@QAEXXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Fireball::move(int,int,int,int)" (?move@Fireball@@QAEXHHHH@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Megaball::move(double,double)" (?move@Megaball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Player::move(void)" (?move@Player@@QAEXXZ) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "public: void __thiscall Fireball::movePurple(double,double)" (?movePurple@Fireball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * minion" (?minion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * gru" (?gru@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * fireball" (?fireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * banana" (?banana@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * background" (?background@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * minionShield" (?minionShield@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * bananaEast" (?bananaEast@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * bananaWest" (?bananaWest@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * bananaNorth" (?bananaNorth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * bananaSouth" (?bananaSouth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * grave" (?grave@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * gruDancing" (?gruDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * minionDancing" (?minionDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * heart" (?heart@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * sun" (?sun@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * evilMinion" (?evilMinion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * purpleFireball" (?purpleFireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * angryMinionR" (?angryMinionR@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * angryMinionL" (?angryMinionL@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * iceEnemy" (?iceEnemy@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * iceBall" (?iceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * smalliceBall" (?smalliceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+menu.obj : warning LNK4006: "struct SDL_Surface * mars" (?mars@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Banana::Banana(void)" (??0Banana@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Enemy::Enemy(void)" (??0Enemy@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Fireball::Fireball(void)" (??0Fireball@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Heart::Heart(void)" (??0Heart@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Megaball::Megaball(void)" (??0Megaball@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: __thiscall Player::Player(void)" (??0Player@@QAE@XZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Banana::BananaChangeVars(int,int,char,int,int,int &)" (?BananaChangeVars@Banana@@QAEXHHDHHAAH@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Heart::UpdateHitbox(void)" (?UpdateHitbox@Heart@@QAEXXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: int __thiscall Player::getPosX(void)" (?getPosX@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: int __thiscall Player::getPosY(void)" (?getPosY@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Banana::handleEvent(union SDL_Event &,int,int,int &)" (?handleEvent@Banana@@QAEXAATSDL_Event@@HHAAH@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Player::handleEvent(union SDL_Event &)" (?handleEvent@Player@@QAEXAATSDL_Event@@@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Banana::move(void)" (?move@Banana@@QAEXXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Enemy::move(void)" (?move@Enemy@@QAEXXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Fireball::move(int,int,int,int)" (?move@Fireball@@QAEXHHHH@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Megaball::move(double,double)" (?move@Megaball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Player::move(void)" (?move@Player@@QAEXXZ) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "public: void __thiscall Fireball::movePurple(double,double)" (?movePurple@Fireball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * minion" (?minion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * gru" (?gru@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * fireball" (?fireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * banana" (?banana@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * background" (?background@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * minionShield" (?minionShield@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * bananaEast" (?bananaEast@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * bananaWest" (?bananaWest@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * bananaNorth" (?bananaNorth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * bananaSouth" (?bananaSouth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * grave" (?grave@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * gruDancing" (?gruDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * minionDancing" (?minionDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * heart" (?heart@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * sun" (?sun@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * evilMinion" (?evilMinion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * purpleFireball" (?purpleFireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * angryMinionR" (?angryMinionR@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * angryMinionL" (?angryMinionL@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * iceEnemy" (?iceEnemy@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * iceBall" (?iceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * smalliceBall" (?smalliceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+ActualMenu.obj : warning LNK4006: "struct SDL_Surface * mars" (?mars@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Banana::Banana(void)" (??0Banana@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Enemy::Enemy(void)" (??0Enemy@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Fireball::Fireball(void)" (??0Fireball@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Heart::Heart(void)" (??0Heart@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Megaball::Megaball(void)" (??0Megaball@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: __thiscall Player::Player(void)" (??0Player@@QAE@XZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Banana::BananaChangeVars(int,int,char,int,int,int &)" (?BananaChangeVars@Banana@@QAEXHHDHHAAH@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Heart::UpdateHitbox(void)" (?UpdateHitbox@Heart@@QAEXXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: int __thiscall Player::getPosX(void)" (?getPosX@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: int __thiscall Player::getPosY(void)" (?getPosY@Player@@QAEHXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Banana::handleEvent(union SDL_Event &,int,int,int &)" (?handleEvent@Banana@@QAEXAATSDL_Event@@HHAAH@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Player::handleEvent(union SDL_Event &)" (?handleEvent@Player@@QAEXAATSDL_Event@@@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Banana::move(void)" (?move@Banana@@QAEXXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Enemy::move(void)" (?move@Enemy@@QAEXXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Fireball::move(int,int,int,int)" (?move@Fireball@@QAEXHHHH@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Megaball::move(double,double)" (?move@Megaball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Player::move(void)" (?move@Player@@QAEXXZ) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "public: void __thiscall Fireball::movePurple(double,double)" (?movePurple@Fireball@@QAEXNN@Z) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * minion" (?minion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * gru" (?gru@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * fireball" (?fireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * banana" (?banana@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * background" (?background@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * minionShield" (?minionShield@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * bananaEast" (?bananaEast@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * bananaWest" (?bananaWest@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * bananaNorth" (?bananaNorth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * bananaSouth" (?bananaSouth@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * grave" (?grave@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * gruDancing" (?gruDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * minionDancing" (?minionDancing@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * heart" (?heart@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * sun" (?sun@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * evilMinion" (?evilMinion@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * purpleFireball" (?purpleFireball@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * angryMinionR" (?angryMinionR@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * angryMinionL" (?angryMinionL@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * iceEnemy" (?iceEnemy@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * iceBall" (?iceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * smalliceBall" (?smalliceBall@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+Source1.obj : warning LNK4006: "struct SDL_Surface * mars" (?mars@@3PAUSDL_Surface@@A) already defined in Game.obj; second definition ignored
+C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Debug\szablon2vs19.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  szablon2vs19.vcxproj -> C:\Users\Jakub\Desktop\Pliki studia\template-project-2\Debug\szablon2vs19.exe
